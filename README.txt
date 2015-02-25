@@ -1,6 +1,17 @@
-TERA Auto Login v1.0.0.0
+TERA Auto Login v1.1.0.0
 ------------------------
 http://blog.surashu.com/
+
+
+**What's new?**
+v1.1
++ Added option in the INI file to skip the
+  prompting of the user. Just set 'prompt'
+  to 'no' in the INI to skip it.
+
+v1.0
+* Original release.
+* Basic functionality.
 
 
 ===========================================
